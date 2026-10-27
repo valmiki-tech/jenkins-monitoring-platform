@@ -13,3 +13,4 @@ jenkins-values-backup.yaml
 *.log
 .vscode/
 .idea/
+jenkins-values.yaml
