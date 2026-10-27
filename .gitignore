@@ -1,0 +1,15 @@
+# Node dependencies and build output
+frontend/node_modules/
+frontend/dist/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*-secrets*.yaml
+jenkins-values-backup.yaml
+
+# Logs and editor files
+*.log
+.vscode/
+.idea/
